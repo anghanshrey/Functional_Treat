@@ -358,7 +358,6 @@ data-analyzer-transformer/
 🎓 Red & White Skill Education — *Shaping skills for scaling higher...!!!*
 🔗 GitHub: [@anghanshrey](https://github.com/anghanshrey)
 
-![Profile Views](https://komarev.com/ghpvc/?username=anghanshrey&label=Profile%20Views&color=E76F51&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/anghanshrey?label=Follow&style=social)
 
 </div>
