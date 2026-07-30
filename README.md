@@ -261,7 +261,7 @@ Thank you for using the Data Analyzer and Transformer Program. Goodbye!
 
 ## Video
 
-Video link : 
+Video link : https://drive.google.com/drive/folders/1aEZt-klpOTiT8EW5E38XjCCc-zYvX7wC?usp=sharing
 
 ---
 
